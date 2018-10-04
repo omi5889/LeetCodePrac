@@ -1,4 +1,4 @@
-package problems;
+package problems.DynamicProgramming;
 
 /**
  * Created by omkar on 10/3/18.

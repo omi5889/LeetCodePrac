@@ -1,6 +1,4 @@
-package problems;
-
-import java.util.Arrays;
+package problems.Arrays;
 
 /**
  * Created by omkar on 9/20/18.
