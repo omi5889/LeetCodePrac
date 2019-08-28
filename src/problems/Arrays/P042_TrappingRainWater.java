@@ -50,7 +50,7 @@ public class P042_TrappingRainWater {
 
     public static void main(String[] args) {
         P042_TrappingRainWater obj = new P042_TrappingRainWater();
-        int[] height = {};
+        int[] height = {0,1,0,2,1,0,1,3,2,1,2,1};
         int res = obj.trap(height);
         System.out.println(res);
     }
